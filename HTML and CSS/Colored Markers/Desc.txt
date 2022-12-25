@@ -1,0 +1,3 @@
+These two files will create and stylize a web page that displays three centered and colored markers on a white background with shadows behind them.
+The html file will contain basic divs describing each marker class inside of a container class.
+The css file will be defining the colors of borders and backgrounds using rgb, rgba, hsl, hsla, and hex representations for color.
